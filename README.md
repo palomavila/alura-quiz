@@ -7,10 +7,10 @@ Este projeto foi criado durante a Imersão React da [Alura](https://www.alura.co
 ## 👩🏽‍💻 Screenshots
 
   <div align="left">
-  <img src="https://github.com/palomavila/alura-quiz/prints/home.png" alt"Banner" title="Home" />
+  <img src="https://github.com/palomavila/alura-quiz/blob/main/prints/home.png" title="Home" />
 
 <div align="left">
-  <img src="https://github.com/palomavila/alura-quiz/prints/first-question.png" alt"Banner" title="First question" />
+  <img src="https://github.com/palomavila/alura-quiz/blob/main/prints/first-question.png" alt"Banner" title="First question" />
 
 ## 👩🏽‍💻 Deploy
 
