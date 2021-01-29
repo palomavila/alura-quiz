@@ -1,0 +1,78 @@
+{
+  "bg": "https://pbs.twimg.com/media/CwdKTpcXgAEY3s4.jpg",
+  "title": "Quiz Riverdale",
+  "description": "Você acha que sabe tudo sobre essa série? Vamos ver!",
+  "questions": [
+    {
+      "image": "https://media.giphy.com/media/3oKIPzrYwj330JkZeU/giphy.gif",
+      "title": "Qual destas escolas Jughead Jones frequentou?",
+      "description": "Just getting started",
+      "answer": 2,
+      "alternatives": [
+        "High Level Prep",
+        "Mayback Hight",
+        "Stonewall Prep",
+        "Stoneshell Prep"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/3oKIPq5EQ1CIlWq0QU/giphy.gif",
+      "title": "Qual lugar do mundo Veronica Lodge mais gosta?",
+      "description": "Where dreams are made of",
+      "answer": 2,
+      "alternatives": [
+        "Rio de Janeiro",
+        "Los Angeles",
+        "New York",
+        "Califórnia"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/3oKIPCrAEj6Kk2iJUI/giphy.gif",
+      "title": "Qual o nome das Cheerleaders de Riverdale?",
+      "description": "Não tem dica!",
+      "answer": 2,
+      "alternatives": ["Mad Roses", "Roses", "Vixens", "Pretty Poison"]
+    },
+    {
+      "image": "https://media.giphy.com/media/3o7btZFc5BYTInjCX6/giphy.gif",
+      "title": "Qual o primeiro nome do protagonista Archie Andrews?",
+      "description": "Essa é HARD pessoal",
+      "answer": 2,
+      "alternatives": [
+        "Archiekins",
+        "Archibal",
+        "Archibald",
+        "O nome é Archie mesmo"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/l378vuEqumRVJGy3u/giphy.gif",
+      "title": "Qual o nome do Jornal que a Betty Cooper and Jughead Jones fazem parte na Riverdale High School?",
+      "description": "Dúvido saber essa",
+      "answer": 0,
+      "alternatives": [
+        "The Blue and Gold",
+        "The Black and Gold",
+        "The People",
+        "Riverdale High"
+      ]
+    }
+  ],
+  "external": [
+    "https://aluraquiz-rpg.danielmalka.vercel.app",
+    "https://quiz-alura-react-js.jamangueira7.vercel.app/",
+    "https://overwatch-quiz.wescastelani.vercel.app/"
+  ],
+  "theme": {
+    "colors": {
+      "primary": "#CD3700",
+      "secondary": "#8B0000",
+      "mainBg": "#FF8C69",
+      "contrastText": "#FFFFFF",
+      "wrong": "#FF5722",
+      "success": "#4CAF50"
+    },
+    "borderRadius": "4px"
+  }
+}
