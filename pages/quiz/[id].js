@@ -24,7 +24,7 @@ export async function getServerSideProps(context) {
   
     try {
       const dbExterno = await fetch(`https://${projectName}.${githubUser}.vercel.app/api/db`)
-      //const dbExterno = await fetch("https://mariaquiz.mariarubinger.vercel.app/api/db")
+      // realizar um teste
         .then((respostaDoServer) => {
           if (respostaDoServer.ok) {
             return respostaDoServer.json();
