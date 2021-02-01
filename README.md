@@ -1,10 +1,10 @@
 # Imersão React Next.Js
 
-## 👩🏽‍💻 Quiz
+## 👩🏽‍💻 Sobre o Quiz:
 
 Este projeto foi criado durante a Imersão React da [Alura](https://www.alura.com.br/) durante os dias 26 a 29 de janeiro de 2021.
 
-## 👩🏽‍💻 Screenshots
+## 👩🏽‍💻 Screenshots:
 
   <div align="left">
   <img src="https://github.com/palomavila/alura-quiz/blob/main/prints/home.png" title="Home" />
@@ -12,16 +12,16 @@ Este projeto foi criado durante a Imersão React da [Alura](https://www.alura.co
 <div align="left">
   <img src="https://github.com/palomavila/alura-quiz/blob/main/prints/first-question.png" alt"Banner" title="First question" />
 
-## 👩🏽‍💻 Deploy
+## 👩🏽‍💻 Deploy:
 
 - [Vercel](https://alura-quiz-delta.vercel.app/)
 
-## 👩🏽‍💻 Tecnologias
+## 👩🏽‍💻 Tecnologias:
 
 - [ReactJS](https://reactjs.org/)
 - [Next.js](https://nextjs.org/)
 
-## 👩🏽‍💻Licença
+## 👩🏽‍💻Licença:
 
 Esse projeto está sob a licença MIT.
 
