@@ -9,6 +9,7 @@ import QuizLogo from '../../src/components/QuizLogo';
 import Button from '../../src/components/Button';
 import QuizContainer from '../../src/components/QuizContainer';
 import AlternativesForm from '../../src/components/AlternativesForm';
+import BackLinkArrow from '../../src/components/BlackLinkArrow';
 
 function ResultWidget({ results }) {
   const router = useRouter()
